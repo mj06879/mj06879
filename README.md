@@ -17,17 +17,34 @@ Driven by curiosity, I actively pursue opportunities to deepen my understanding 
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies & Tools  
 
-- **Languages:** Python, C++
-- **Frameworks:** TensorFlow, PyTorch, Keras, OpenAI Gym
-- **Tools:** Jupyter, Docker, Git
+### Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+
+### Frameworks & Libraries  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  ![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  ![LangChain](https://img.shields.io/badge/-LangChain-282C34?style=for-the-badge&logo=&logoColor=white)  ![Claude AI](https://img.shields.io/badge/-Claude_AI-000000?style=for-the-badge&logo=&logoColor=white) ![OpenAI Spinning Up](https://img.shields.io/badge/-OpenAI_Spinning_Up-412991?style=for-the-badge&logo=openai&logoColor=white)  ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=for-the-badge&logo=&logoColor=white)  
+
+
+
+### Tools  
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![Postgres](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### Development Skills  
+- **End-to-End Application Development**: WebSockets, Socket.IO  
+- **Database Management**: SQL, MongoDB, ElasticSearch, PostgreSQL  
+- **Open-Source AI Models**: Expertise in integrating and fine-tuning state-of-the-art AI models like those from OpenAI, LangChain, and Claude AI.  
+
+### Additional Interests  
+- Exploring **open-source AI** and **large-scale deployment** solutions.  
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/muhammad-najeeb-jilani)
-- [Email](najeebjilaniprofession4@gmail.com)
+## 📫 Connect with Me  
+- [LinkedIn](https://www.linkedin.com/in/najeeb-jilani-ba993a260/)  
+- [GitHub](https://github.com/mj06879/)  
+- 📧 Email: najeebprofessional4@gmail.com  
 
 ## 📈 GitHub Stats
 
