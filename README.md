@@ -46,12 +46,4 @@ Driven by curiosity, I actively pursue opportunities to deepen my understanding 
 - [GitHub](https://github.com/mj06879/)  
 - 📧 Email: najeebprofessional4@gmail.com  
 
-## 📈 GitHub Stats
-
----
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mj06879&show_icons=true&theme=radical)
-
----
-
 Thanks for stopping by! Feel free to reach out for collaborations or to discuss exciting AI ideas! 🚀
