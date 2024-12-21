@@ -4,8 +4,9 @@
 
 ## 🚀 About Me
 
-I’m an **AI/ML Engineer** passionate about using **Deep Learning**, **Reinforcement Learning**, and **AI Agents** to tackle real-world challenges. 
-I specialize in building solutions with **agentic systems** and **large language models (LLMs)**. Always curious, I thrive on continuous learning and innovation in AI.
+I’m an **AI/ML Engineer** with a passion for exploring **Deep Learning**, **Reinforcement Learning**, and **AI Agents** to solve complex, real-world challenges. My expertise lies in creating impactful solutions using agentic systems and large language models (LLMs). I enjoy tackling problems that push the boundaries of AI, integrating innovative methods, and contributing to advancements in the field through exploratory work.
+
+Driven by curiosity, I actively pursue opportunities to deepen my understanding of emerging AI technologies while sharing insights and ideas that foster growth and collaboration within the community.
 
 ---
   
